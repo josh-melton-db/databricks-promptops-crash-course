@@ -1,0 +1,5 @@
+mlflow[databricks]>=3.10.0
+openai
+databricks-openai
+dspy
+gepa>=0.0.26
