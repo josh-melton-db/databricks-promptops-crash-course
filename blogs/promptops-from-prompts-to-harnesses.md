@@ -4,7 +4,7 @@
 
 The AI industry keeps renaming the work.
 
-Prompt engineering, then RAG, then context engineering, then MCP, then "agent skills" and `AGENTS.md` and `CLAUDE.md` and `.cursorrules`, then DSPy and GEPA and `optimize_anything` and Autoresearch, and now harness engineering. Each wave gets its own conference talks and job titles.
+Prompt engineering, then RAG, then context engineering, then MCP, then "agent skills" and `AGENTS.md` and `CLAUDE.md` and `.cursorrules`, then DSPy and GEPA and `optimize_anything` and Autoresearch, and now harness engineering. Each wave gets more hype than the last.
 
 But the substrate never changes. The model still consumes tokens. Everything new is just a different way to *create* and *route* the text those tokens encode.
 
